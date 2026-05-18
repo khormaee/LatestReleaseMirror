@@ -157,5 +157,40 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
 
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/khormaee/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.7-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/khormaee/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk) |
+
+---
+
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayn
+
+🔗 [source](https://github.com/2dust/v2rayn) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayn/releases/tag/7.21.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/khormaee/LatestReleaseMirror/main/releases/2dust/v2rayn/v2rayN-windows-64-desktop.zip.001) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 28.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/khormaee/LatestReleaseMirror/main/releases/2dust/v2rayn/v2rayN-windows-64-desktop.zip.002) |
+
+---
+
+<div id="matsuridayo--nekoboxforandroid"></div>
+
+### Matsuridayo--NekoBoxForAndroid
+
+🔗 [source](https://github.com/Matsuridayo/NekoBoxForAndroid) – [<code><small>1.4.2</small></code>](https://github.com/Matsuridayo/NekoBoxForAndroid/releases/tag/1.4.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `NekoBox-1.4.2-arm64-v8a.apk` | 14.5 MB | [⬇️ Download](https://raw.githubusercontent.com/khormaee/LatestReleaseMirror/main/releases/Matsuridayo/NekoBoxForAndroid/NekoBox-1.4.2-arm64-v8a.apk) |
+| `NekoBox-1.4.2-armeabi-v7a.apk` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/khormaee/LatestReleaseMirror/main/releases/Matsuridayo/NekoBoxForAndroid/NekoBox-1.4.2-armeabi-v7a.apk) |
 <!-- RELEASES_END -->
